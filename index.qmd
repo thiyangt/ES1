@@ -48,6 +48,8 @@ All core STA course units.
 
 # Imagine you are the CEO of a data analytics company. What skills would you look for when hiring a statistician?
 
+
+
 ---
 
 ##  I would categorize the essential skills into 
@@ -93,3 +95,64 @@ All core STA course units.
 - Critical thinking to interpret results and provide actionable insights.
 
 - Attention to detail for accuracy and reliability in analyses.
+
+---
+
+# Possible interview question
+
+
+# Can you describe a time when you applied advanced statistical techniques to solve a complex problem? 
+
+
+---
+
+
+
+- tools and methods you used 
+
+- how you communicated your findings 
+
+---
+
+- In one of my recent projects, I worked with a retail client to forecast product demand across multiple locations.
+
+---
+
+- In one of my recent projects, I worked with a retail client to forecast product demand across multiple locations.
+
+ 
+- The challenge was that the sales were influenced by seasonality, promotional events, and external factors like weather. 
+
+---
+
+I used R to analyze this problem and develop a predictive model. 
+
+
+1. Data Cleaning and Preparation:
+
+I first used the dplyr and tidyr packages to clean the sales data, handling missing values, duplicates, and outliers. Then, I used lubridate to parse dates and create time-based features for seasonality.
+
+---
+
+2. Time Series Forecasting:
+
+I applied ARIMA and Exponential Smoothing models to forecast future sales. I used the forecast package to fit the models and validate their accuracy.
+
+---
+
+3. Visualization:
+
+I visualized the forecasted data with the ggplot2 package to make the results more understandable for the client.
+
+---
+
+4. Communication:
+
+> Your turn: Write the response that you would give to this interview question.
+
+---
+## Project
+
+### Exploring the Relationship Between Parental Involvement and Its Association with the Social and Academic Development of Kindergarten Children
+
+> How you would approach data collection for this project?
