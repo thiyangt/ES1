@@ -150,9 +150,29 @@ I visualized the forecasted data with the ggplot2 package to make the results mo
 
 > Your turn: Write the response that you would give to this interview question.
 
+
 ---
-## Project
 
-### Exploring the Relationship Between Parental Involvement and Its Association with the Social and Academic Development of Kindergarten Children
+# Project 1
 
-> How you would approach data collection for this project?
+Exploring the Relationship Between Parental Involvement and Its Association with the Social and Academic Development of Kindergarten Children
+
+
+How you would approach data collection for this project?
+
+
+
+
+---
+
+## Project 2
+
+The early years of a child's life are critical for their cognitive, social, and emotional development. Research has consistently shown that parental involvement plays a significant role in shaping a child’s academic success and behavioral development. Parents who are knowledgeable about child development and effective parenting strategies are better equipped to support their child’s growth in a nurturing and productive manner.
+
+In response to this, an organization has introduced a parent knowledge improvement program designed to enhance parents’ understanding of child development, effective parenting techniques, and strategies to foster their child's academic and behavioral growth.
+
+---
+
+## Project 2 (cont.)
+
+What is the effect of an organization-developed parent knowledge improvement program on the academic performance and behavioral outcomes of kindergarten children?
