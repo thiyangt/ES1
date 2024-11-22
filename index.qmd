@@ -186,3 +186,16 @@ What is the effect of an organization-developed parent knowledge improvement pro
 How do university students' learning styles influence their academic performance over the course of their degree program?
 
 > How you would approach data collection for this project?
+
+---
+
+### Project 4
+
+Identify birds behavior, and habitat preferences in Sinharaja Forest.
+
+1. What are the behavioral patterns of birds (Feeding,
+Nesting,
+Flight patterns,
+Interaction with other species) in this ecosystem?
+
+2. How do environmental factors (e.g., vegetation type, altitude, human activity) influence bird habitat preferences in Sinharaja Forest?
