@@ -153,9 +153,9 @@ I visualized the forecasted data with the ggplot2 package to make the results mo
 
 ---
 
-# Project 1
+## Project 1
 
-Exploring the Relationship Between Parental Involvement and Its Association with the Social and Academic Development of Kindergarten Children
+Relationship between parental involvement and its association with the social and academic development of kindergarten children
 
 
 How you would approach data collection for this project?
@@ -180,3 +180,9 @@ What is the effect of an organization-developed parent knowledge improvement pro
 > How you would approach data collection for this project?
 
 ---
+
+## Project 3
+
+How do university students' learning styles influence their academic performance over the course of their degree program?
+
+> How you would approach data collection for this project?
